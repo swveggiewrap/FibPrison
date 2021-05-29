@@ -1,0 +1,91 @@
+name: Prison
+version: ${project.version}
+main: com.fibonacci.prison.Prison
+api-version: 1.16
+authors: [ Fibonacci122 ]
+depend: [ProtocolLib]
+description: FibMC's Prison Plugin - Coded From Scratch
+commands:
+  firstjoin:
+    aliases: [fj]
+  mine:
+  minetool:
+  testrankup:
+  customenchants:
+    aliases: [ce, enchant, customenchantmenu]
+  sellhand:
+    aliases: [sell]
+  sellall:
+    aliases: [sa, sellinventory, si]
+  resetmine:
+    aliases: [rm, resetmymine]
+  rankup:
+    aliases: [ru, rup]
+  maxrank:
+    aliases: [mr, maxrankup, rankupmax]
+  calculatemaxrank:
+    aliases: [cmr]
+  blocksmined:
+    aliases: [bm, blocks]
+  fibs:
+  dibs:
+  rank:
+  add:
+  createwarp:
+  deletewarp:
+  warp:
+    aliases: [w]
+  getmine:
+  gms:
+  gmc:
+  spawn:
+    aliases: [hub, lobby]
+  ceinfo:
+    aliases: [enchantinfo, einfo]
+  trash:
+    aliases: [garbage]
+  ranks:
+  repair:
+    aliases: [fix, repairitem]
+  reset:
+    aliases: [resetprogress, resetall]
+  rankupcost:
+    aliases: [rc, nextrankcost, nrc]
+  food:
+    aliases: [feed, steak]
+  plugins:
+    aliases: [pl]
+  version:
+    aliases: [ver, about]
+  prisonreload:
+  discord:
+  staff:
+  ban:
+  unban:
+  mute:
+  unmute:
+  tempmute:
+  tempban:
+  kick:
+  sbtoggle:
+    aliases: [sb, sbt]
+  warn:
+  giveme:
+    aliases: [gm]
+  automine:
+    aliases: [am]
+  reportbug:
+    aliases: [bugreport]
+  report:
+    aliases: [reportplayer, playerreport]
+  message:
+    aliases: [msg, whisper, w]
+  reply:
+    aliases: [r]
+  kit:
+  invsee:
+    aliases: [seeinv]
+  vanish:
+    aliases: [vanishmode]
+  max:
+  resetplayer:
